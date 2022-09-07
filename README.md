@@ -1,4 +1,4 @@
-### Hi there 👋
+### Student of Gachon University
 
 <!--
 **Kim-Yoo-Hyun/Kim-Yoo-Hyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
